@@ -1,0 +1,1 @@
+print("Producto:\tManzanas\nPrecio:\t$1.00")

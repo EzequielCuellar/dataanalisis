@@ -1,0 +1,2 @@
+print("¿Qué es la Programación? Es el proceso de escribir instrucciones para que una computadora realice tareas específicas. Pensamiento Lógico" \
+"Implica un enfoque lógico y creativo para solucionar problemas. Creación de SoftwarePermite desarrollar aplicaciones y sistemas que transforman ideas en realidad digital.")
